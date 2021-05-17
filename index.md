@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+![Logo](https://github.com/arsnetavark/Site/blob/gh-pages/WebsiteBanner.jpg)
 
-You can use the [editor on GitHub](https://github.com/arsnetavark/Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## [**Dr Ben Newman Wright**](https://arsnetavark.wordpress.com)
+>*'I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We've created life in our own image.'*
+>
+>>(Stephan Hawking CH CBE FRS FRSA)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arsnetavark/Site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am an Associate Fellow of The British Psychological Society, a Chartered Psychologist, and a Life Member of the Indian Academy of Neurosciences. I was a Fellow of the Royal Society of Medicine and an Associate of the British Sociological Association. Having taught aspects of Business & Health Administration, Public Health, Neuroscience, (Clinical) Psychology & Linguistics, I designed & Directed an Institute of Neurosciences. I am now CEO of CHARMS The Essex Therapy Centre, an Independent Health Provider, providing Hyperbaric & Normobaric Oxygen Therapy including for Cancer, Neurological & Urological Disorders, Lyme Disease & Sports Injuries, also Long-COVID. I am also a Parish Councillor, Secretary of the Tendring District Association of Local Councils, and Workplace Chaplain. Along the way I led the Voice of Minority Ethnic Communities for a Strategic Partner of the UK Cabinet Office (working with the EHRC on Equality Act 2010 and its Shadow Report to the UN CERD), also supporting the Polish Community after the Brexit Referendum, and helped to introduce 'Big Data' in an Archive for the analysis of Government Data, focusing on Information Security, Machine Learning & Metadata.
